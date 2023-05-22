@@ -6,7 +6,7 @@ It uses pygame to visualize the algorithms. The animation can be exported to MP4
 
 Current list of algorithms (with a brief explanation of how it works):
 - Bubble sort (swap consecutive numbers if not in the correct order)
-- Shell sort (bubble sort with variable interval)
+- ~Shell sort (bubble sort with variable interval)~
 - Insertion sort (insert each value after the last number smaller than it)
 - Radix LSD sort (for each order of magnitude (1,10,100,...), put each value in a bucket corresponding to its digit for this order)
 - Merge sort (recursively split the list, then from the bottom up, rejoin and sort each halves)
